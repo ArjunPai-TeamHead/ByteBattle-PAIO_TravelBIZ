@@ -1,14 +1,13 @@
 # Client keys (safe for browser)
-NEXT_PUBLIC_MAPTILER_KEY=your_maptiler_key_here
-NEXT_PUBLIC_LIBRETRANSLATE_URL=https://libretranslate.com
+NEXT_PUBLIC_MAPTILER_KEY=lbzVs1kdbr7rizHMEzfH
 
 # Radar publishable keys (currently unused in code; we use ORS for geocoding server-side)
-NEXT_PUBLIC_RADAR_PUBLISHABLE_KEY_TEST=pk_your_radar_test_key
-NEXT_PUBLIC_RADAR_PUBLISHABLE_KEY_LIVE=pk_your_radar_live_key
+NEXT_PUBLIC_RADAR_PUBLISHABLE_KEY_TEST=prj_test_pk_aa9c8e11ed866ffde65930417d7776f731c93723
+NEXT_PUBLIC_RADAR_PUBLISHABLE_KEY_LIVE=prj_live_pk_d9b32b9b95fdebcd090a877252c7e557cd71176a
 
 # Server-only secrets (add to Netlify env; DO NOT commit real values)
-ORS_API_KEY=your_ors_key_server_only
-TOMTOM_API_KEY=your_tomtom_key_server_only
+ORS_API_KEY=lbzVs1kdbr7rizHMEzfH
+TOMTOM_API_KEY=hxEyBvUvepMTKx9w1lI6DuicNcpvdrl2
 
 # Feature flags
 ENABLE_SAFETY=true

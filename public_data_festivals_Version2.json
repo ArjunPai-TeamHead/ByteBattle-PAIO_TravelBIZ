@@ -1,0 +1,85 @@
+{
+  "festivals": [
+    {
+      "id": "diwali",
+      "name": "Diwali (Deepavali)",
+      "impact": "high",
+      "typical_rule": "Amavasya (new moon) of Kartik (Oct/Nov)",
+      "dates_2025": [],
+      "regions": ["India"],
+      "sources": ["https://timesofindia.indiatimes.com", "https://en.wikipedia.org/wiki/Diwali"]
+    },
+    {
+      "id": "holi",
+      "name": "Holi",
+      "impact": "high",
+      "typical_rule": "Phalguna Purnima (~March)",
+      "dates_2025": [],
+      "regions": ["India"],
+      "sources": ["https://en.wikipedia.org/wiki/Holi", "https://www.latimes.com/"]
+    },
+    {
+      "id": "dussehra",
+      "name": "Dussehra (Vijayadashami)",
+      "impact": "high",
+      "typical_rule": "Dashami of Shukla Paksha in Ashvin (Sep/Oct)",
+      "dates_2025": [],
+      "regions": ["India"],
+      "sources": ["https://en.wikipedia.org/wiki/Vijayadashami", "https://timesofindia.indiatimes.com"]
+    },
+    {
+      "id": "durga_puja",
+      "name": "Durga Puja",
+      "impact": "high",
+      "typical_rule": "Ashwin Shukla Paksha (late Sep/early Oct)",
+      "dates_2025": [],
+      "regions": ["West Bengal", "Odisha", "East India"],
+      "sources": ["https://en.wikipedia.org/wiki/Durga_Puja"]
+    },
+    {
+      "id": "ganesh_chaturthi",
+      "name": "Ganesh Chaturthi",
+      "impact": "high",
+      "typical_rule": "4th day of Shukla Paksha in Bhadrapada (Aug/Sep)",
+      "dates_2025": [],
+      "regions": ["Maharashtra"],
+      "sources": ["https://en.wikipedia.org/wiki/Ganesh_Chaturthi", "https://holidify.com/"]
+    },
+    {
+      "id": "eid_al_fitr",
+      "name": "Eid al-Fitr",
+      "impact": "high",
+      "typical_rule": "1 Shawwal (lunar calendar)",
+      "dates_2025": [],
+      "regions": ["India"],
+      "sources": ["https://www.ndtv.com/"]
+    },
+    {
+      "id": "eid_al_adha",
+      "name": "Eid al-Adha",
+      "impact": "high",
+      "typical_rule": "10 Dhul-Hijjah (lunar calendar)",
+      "dates_2025": [],
+      "regions": ["India"],
+      "sources": ["https://www.ndtv.com/"]
+    },
+    {
+      "id": "onam",
+      "name": "Onam",
+      "impact": "high",
+      "typical_rule": "Thiruvonam nakshatra in Chingam (Aug/Sep)",
+      "dates_2025": [],
+      "regions": ["Kerala"],
+      "sources": ["https://en.wikipedia.org/wiki/Onam"]
+    },
+    {
+      "id": "kumbh_mela",
+      "name": "Maha Kumbh Mela (Haridwar 2025)",
+      "impact": "high",
+      "typical_rule": "Jan/Feb windows as announced",
+      "dates_2025": [],
+      "regions": ["Haridwar"],
+      "sources": ["https://pib.gov.in/"]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Client keys (safe for browser)
+NEXT_PUBLIC_MAPTILER_KEY=your_maptiler_key_here
+NEXT_PUBLIC_LIBRETRANSLATE_URL=https://libretranslate.com
+
+# Radar publishable keys (currently unused in code; we use ORS for geocoding server-side)
+NEXT_PUBLIC_RADAR_PUBLISHABLE_KEY_TEST=pk_your_radar_test_key
+NEXT_PUBLIC_RADAR_PUBLISHABLE_KEY_LIVE=pk_your_radar_live_key
+
+# Server-only secrets (add to Netlify env; DO NOT commit real values)
+ORS_API_KEY=your_ors_key_server_only
+TOMTOM_API_KEY=your_tomtom_key_server_only
+
+# Feature flags
+ENABLE_SAFETY=true
+ENABLE_FESTIVALS=true
+ENABLE_SPEECH=true
+ENABLE_OCR=true
+
+# Rate limits (client messaging only in MVP)
+ROUTE_RATE_LIMIT_PER_HOUR=120
+TRANSLATE_RATE_LIMIT_PER_HOUR=60

@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jk_ut",
+        "region_name": "Jammu & Kashmir (Union Territory)",
+        "risk_types": ["Terrorism", "Civil Unrest"],
+        "notes": "Advisories warn against travel to parts of J&K; frequent unrest and terror threats.",
+        "sources": [
+          "https://travel.state.gov/en/international-travel/travel-advisories/india.html",
+          "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
+          "https://www.smartraveller.gov.au/destinations/asia/india"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "india_pak_border",
+        "region_name": "India–Pakistan border (10 km zone)",
+        "risk_types": ["Armed conflict", "Military hostilities"],
+        "notes": "Avoid all areas within ~10 km of the border. Attari–Wagah is the primary civilian crossing.",
+        "sources": [
+          "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
+          "https://www.smartraveller.gov.au/destinations/asia/india"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "manipur",
+        "region_name": "Manipur",
+        "risk_types": ["Ethnic violence", "Insurgency"],
+        "notes": "Curfews and sporadic violence; 'do not travel' advisories in effect.",
+        "sources": [
+          "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
+          "https://www.smartraveller.gov.au/destinations/asia/india"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "assam_nagaland_border",
+        "region_name": "Assam–Nagaland border regions",
+        "risk_types": ["Insurgency", "Communal/Border clashes"],
+        "notes": "Border skirmishes; insurgent activity; communal unrest in parts of NE India.",
+        "sources": [
+          "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
+          "https://www.smartraveller.gov.au/destinations/asia/india"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "arunachal_remote",
+        "region_name": "Arunachal Pradesh (remote areas)",
+        "risk_types": ["Insurgency", "Poor policing"],
+        "notes": "Sparse population, difficult terrain, and reports of infiltration; use extreme caution in isolated areas.",
+        "sources": [
+          "https://timesofindia.indiatimes.com"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "red_corridor",
+        "region_name": "Central/Eastern 'Red Corridor'",
+        "risk_types": ["Maoist insurgency (LWE)"],
+        "notes": "Active insurgency across parts of Chhattisgarh, Jharkhand, Odisha, Telangana, Andhra Pradesh, Maharashtra, MP, West Bengal.",
+        "sources": [
+          "https://travel.state.gov/en/international-travel/travel-advisories/india.html",
+          "https://www.gov.uk/foreign-travel-advice/india/regional-risks"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "uttar_pradesh",
+        "region_name": "Uttar Pradesh (statewide, urban hotspots)",
+        "risk_types": ["Theft", "Communal violence"],
+        "notes": "High reported crime rates; avoid protests and remote areas at night.",
+        "sources": [
+          "https://timesofindia.indiatimes.com"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "goa_tourist_zones",
+        "region_name": "Goa (tourist zones)",
+        "risk_types": ["Petty theft", "Assault/Harassment"],
+        "notes": "Theft and harassment reported in crowded or poorly lit beach areas at night.",
+        "sources": [
+          "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
+          "https://www.globalguardian.com/global-digest/is-india-safe"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "delhi_hotspots",
+        "region_name": "Delhi (parks, crowded subways/markets)",
+        "risk_types": ["Petty theft", "Sexual assault"],
+        "notes": "Pickpocketing in markets/metros; poorly lit parks (e.g., Vijay Mandal Park) unsafe after dark.",
+        "sources": [
+          "https://timesofindia.indiatimes.com"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mumbai_hotspots",
+        "region_name": "Mumbai (crowded transit/markets)",
+        "risk_types": ["Petty theft", "Scams"],
+        "notes": "Remain vigilant on local trains and crowded areas, especially at night.",
+        "sources": [
+          "https://www.globalguardian.com/global-digest/is-india-safe"
+        ],
+        "rules": { "night_hours": ["21:00-05:00"], "low_lit_multiplier": 0.2 }
+      },
+      "geometry": { "type": "Polygon", "coordinates": [] }
+    }
+  ]
+}

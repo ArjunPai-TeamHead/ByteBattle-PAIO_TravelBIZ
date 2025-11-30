@@ -1,0 +1,42 @@
+[
+  {
+    "id": "delhi_akshardham",
+    "name": "Akshardham Temple",
+    "category": "temples",
+    "city": "Delhi",
+    "state": "Delhi",
+    "lat": 28.6127,
+    "lng": 77.2773,
+    "popularity": "high"
+  },
+  {
+    "id": "delhi_qutub",
+    "name": "Qutub Minar",
+    "category": "heritage",
+    "city": "Delhi",
+    "state": "Delhi",
+    "lat": 28.5244,
+    "lng": 77.1855,
+    "popularity": "high"
+  },
+  {
+    "id": "mumbai_gateway",
+    "name": "Gateway of India",
+    "category": "heritage",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "lat": 18.9219,
+    "lng": 72.8347,
+    "popularity": "high"
+  },
+  {
+    "id": "goa_baga",
+    "name": "Baga Beach",
+    "category": "beaches",
+    "city": "Goa",
+    "state": "Goa",
+    "lat": 15.5553,
+    "lng": 73.7517,
+    "popularity": "high"
+  }
+]
